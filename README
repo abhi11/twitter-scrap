@@ -1,0 +1,9 @@
+Twitter-Scrap
+
+Basic Python Script to fetch basic user infromation.
+Enter the username(or the twitter handle) to get the infromation.
+
+It uses the twitter-python api.
+To install the twitter python api and the dependecies refer the following link:
+   https://code.google.com/p/python-twitter/
+Above link also has the links to required dependecies.
